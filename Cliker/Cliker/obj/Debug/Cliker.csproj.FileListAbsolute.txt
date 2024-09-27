@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Cliker\Cliker\bin\Debug\Cliker.exe.config
+C:\Users\User\source\repos\Cliker\Cliker\bin\Debug\Cliker.exe
+C:\Users\User\source\repos\Cliker\Cliker\bin\Debug\Cliker.pdb
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.Form1.resources
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.Properties.Resources.resources
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.exe
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.pdb
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.Form2.resources
+C:\Users\User\source\repos\Cliker\Cliker\obj\Debug\Cliker.Form3.resources
